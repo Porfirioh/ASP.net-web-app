@@ -1,0 +1,5 @@
+C:\Users\akhn3\source\repos\.Net Web Apps\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.dll
+C:\Users\akhn3\source\repos\.Net Web Apps\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.pdb
+C:\Users\akhn3\source\repos\.Net Web Apps\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.csprojAssemblyReference.cache
+C:\Users\akhn3\source\repos\.Net Web Apps\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.dll
+C:\Users\akhn3\source\repos\.Net Web Apps\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.pdb
